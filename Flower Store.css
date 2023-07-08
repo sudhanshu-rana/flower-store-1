@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.circle{
+    background-image:url(images/31.1.jpg);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.dropdown-item{
+    text-decoration: none;
+}
+.card1{
+    background-color: burlywood;
+}
+.deals{
+    background-color: burlywood;
+}
+.dropdown-link{
+    text-decoration: none;
+}
+.myimg{
+    background-image: url(./images/26.jpg);
+}
